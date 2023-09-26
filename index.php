@@ -31,7 +31,7 @@
 </head>
 <body>
     <section>
-    <h1>Exercicio 1</h1>
+    <h1>Exercicio 2</h1>
     <hr>
     <h2>Exibindo dados</h2>
     <?php
